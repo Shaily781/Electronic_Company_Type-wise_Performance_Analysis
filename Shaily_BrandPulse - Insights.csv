@@ -1,0 +1,9 @@
+Insights from Analysis,,,,,Report for Managment
+AdPlatform Performance,,,,1,Sport Event has worked best for us with CPS of Rs. 179 which is lowest of all event types.
+Details,Type of Event,CPS (in Rs.),,2,Conference as events has not performed well for us with CPS of Rs. 283 which is highest CPS among all event types.
+EventType with Lowest CPS,Sports Event,179,,3,Events held in Mumbai have performed well for us. It has CPS of Rs. 181 which is the lowest for any city.
+EventType with Highest CPS,Conference,283,,4,Events held in Bengalore have not performed well for us. It has CPS of Rs. 255 which is the highest for any city.
+AdPerformance,,,,,
+Details,City,CPS (in Rs.),,,
+City with Lowest CPS,Mumbai,181,,,
+City with Highest CPS,Bangalore,255,,,

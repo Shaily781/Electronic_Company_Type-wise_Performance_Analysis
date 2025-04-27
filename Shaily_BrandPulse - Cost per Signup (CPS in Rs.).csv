@@ -1,0 +1,21 @@
+Event ID,Event Name,Event Type,City,Sponsorship Amount (in Rs.),Product Signups,Cost per Signup (CPS in Rs.)
+SN-MU-A1,Sonu Nigam Tour,Music Festival,Mumbai,500000,2000,250
+KL-SP-A2,Kabbadi League,Sports Event,Delhi,700000,3500,200
+TC-CF-A3,Tech Conference,Conference,Bangalore,400000,1200,333
+RW-MU-A4,Retro Waves,Music Festival,Bangalore,450000,1400,321
+BW-SP-A5,Badminton World Championship,Sports Event,Mumbai,600000,4200,143
+DS-CF-A6,Developer Summit,Conference,Delhi,300000,1000,300
+MF-MU-A7,Metal Fest,Music Festival,Hyderabad,350000,1500,233
+PL-SP-A8,Pro League Football,Sports Event,Pune,650000,3700,176
+FS-MU-A9,Folk Sound Festival,Music Festival,Pune,300000,1300,231
+WT-CF-A10,Web Tech Conference,Conference,Hyderabad,250000,900,278
+FF-MU-A11,Fusion Fiesta,Music Festival,Hyderabad,480000,2200,218
+CW-SP-A12,Cricket World Cup Final,Sports Event,Mumbai,900000,5000,180
+IS-CF-A13,Innovation Summit,Conference,Pune,350000,1400,250
+AG-SP-A14,Athletics Grand Prix,Sports Event,Bangalore,500000,2700,185
+CS-MU-A15,Classical Strings,Music Festival,Pune,250000,1100,227
+HJ-CF-A16,Health & Wellness Summit,Conference,Hyderabad,400000,1250,320
+BB-SP-A17,Basketball Finals,Sports Event,Hyderabad,750000,4000,188
+LE-CF-A18,Leadership Excellence,Conference,Delhi,350000,1500,233
+BB-MU-A19,Bollywood Bash,Music Festival,Mumbai,600000,3200,188
+RW-SP-A20,Hockey World Cup,Sports Event,Pune,850000,4500,189
